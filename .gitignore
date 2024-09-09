@@ -1,0 +1,14 @@
+
+# Gitignore for Tafels
+
+x64/Debug
+x64/Release/
+
+
+
+*.vs
+*.user
+*.filters
+*.obj
+*.log
+*.pdb
